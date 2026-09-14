@@ -1,7 +1,6 @@
-================================================================================
+=======
 PROJECT LICENSE / LICENCE DU PROJET
-================================================================================
-
+=======
 This project is dual-licensed under two different licenses depending on the 
 component:
 
@@ -11,9 +10,9 @@ component:
 2. ASSETS (Graphics, Sprites, Audio, Music, & Sound Effects & Fonts):
    Covered by the Creative Commons Zero v1.0 Universal (CC0 1.0) License.
 
---------------------------------------------------------------------------------
+-------------
 1. CODE LICENSE: MIT No Attribution (MIT-0)
---------------------------------------------------------------------------------
+-------------
 Applies to: All source code, project scripts, and programming logic.
 
 Copyright 2026 Stormwindsky
