@@ -1,4 +1,4 @@
-PROJECT LICENSE / LICENCE DU PROJET
+MOD LICENSE / LICENCE DU MOD
 =======
 This project is dual-licensed under two different licenses depending on the 
 component:
