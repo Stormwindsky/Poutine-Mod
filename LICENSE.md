@@ -1,4 +1,3 @@
-=======
 PROJECT LICENSE / LICENCE DU PROJET
 =======
 This project is dual-licensed under two different licenses depending on the 
